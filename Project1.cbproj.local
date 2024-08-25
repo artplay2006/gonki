@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.470,D:\kursach\gonki_2.3\Unit1.dfm=D:\c++ builder\gonki2_1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\builder\gonki\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\kursach\gonki_2.3\Unit1.dfm=C:\крутая игра\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\c++ builder\крутая игра\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,D:\kursach\gonki_2.3\Project1.cbproj=C:\крутая игра\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,D:\c++ builder\gonki2\Unit1.dfm=D:\c++ builder\gonki2_1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,=D:\c++ builder\крутая игра\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,=C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\builder\gonki\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\builder\gonki\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,D:\c++ builder\gonki_2.2 если удалить не будет работать 2_1\Project1.cbproj=D:\kursach\gonki_2.3\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\builder\gonki\Project1.cbproj=C:\builder\gonki\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\builder\gonki\Project1.cbproj=C:\builder\gonki\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,D:\kursach\gonki_2.3\Unit1.h=D:\c++ builder\gonki2_1\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\kursach\gonki_2.3\Unit1.cpp=C:\крутая игра\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,D:\kursach\gonki_2.3\Unit1.cpp=D:\c++ builder\gonki2_1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\kursach\gonki_2.3\Unit1.h=C:\крутая игра\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\builder\gonki\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,D:\c++ builder\gonki2\Project1.cbproj=D:\c++ builder\gonki2_1\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,D:\c++ builder\gonki2\Unit1.cpp=D:\c++ builder\gonki2_1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\builder\gonki2\Project1.cbproj=C:\builder\gonki2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\builder\gonki2\Project1.cbproj=C:\builder\gonki2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,D:\c++ builder\gonki2\Unit1.h=D:\c++ builder\gonki2_1\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,C:\builder\gonki2\Project1.cbproj=C:\builder\gonki2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\Users\Михаил\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\builder\gonki\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,D:\c++ builder\gonki_2.2\Project1.cbproj=D:\c++ builder\gonki2_1\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\builder\gonki2\Project1.cbproj=C:\builder\gonki2\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
